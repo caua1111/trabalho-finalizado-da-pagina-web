@@ -1,0 +1,51 @@
+img {
+    border-radius: 100%;
+}
+
+.dele {
+    position: absolute;
+    width: 70%;
+    padding: 2rem;
+    margin-left: 450px;
+}
+
+.dolly {
+    position: absolute;
+    width: 70%;
+    padding: 4rem;
+    margin-top: 75px;
+    margin-left: 420px;
+}
+
+.maracutaia {
+    color: black;
+    margin-left: 10px;
+    padding: 0.5px
+}
+
+.xesque {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.dale {
+    margin-right: 100px;
+}
+
+.yei {
+    margin-right: 5px;
+}
+
+.grongos {
+    background-color: rgb(255, 250, 250);
+    width: 250px;
+    border: 5px solid rgb(3, 3, 3);
+    padding: 80px;
+    margin: 20px;
+    border-radius: 50px;
+    margin-left: 25px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
